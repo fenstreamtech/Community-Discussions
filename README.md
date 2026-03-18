@@ -36,7 +36,7 @@ By participating, you agree to:
 
 ## Maintained By
 
-Fenstream Tech  
+Fenstream Technology Group 
 https://github.com/fenstreamtech
 
 ## Group Policies
